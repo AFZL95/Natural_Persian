@@ -2,4 +2,4 @@ my very rudimentary projects in my **Persian natural language processing** cours
 
 report files (in Persian) included in each project.
 
-I've also must conquer my procrastination and translate the report files in English. :D
+I should also conquer my procrastination and translate the report files in English. :D
